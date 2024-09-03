@@ -1,0 +1,7 @@
+C:\Users\qy2015\Documents\github\Get started with ASP.NET Core\aspnetcoreapp\bin\Release\net8.0\publish\aspnetcoreapp.exe
+C:\Users\qy2015\Documents\github\Get started with ASP.NET Core\aspnetcoreapp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\qy2015\Documents\github\Get started with ASP.NET Core\aspnetcoreapp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\qy2015\Documents\github\Get started with ASP.NET Core\aspnetcoreapp\bin\Release\net8.0\publish\aspnetcoreapp.dll
+C:\Users\qy2015\Documents\github\Get started with ASP.NET Core\aspnetcoreapp\bin\Release\net8.0\publish\aspnetcoreapp.deps.json
+C:\Users\qy2015\Documents\github\Get started with ASP.NET Core\aspnetcoreapp\bin\Release\net8.0\publish\aspnetcoreapp.runtimeconfig.json
+C:\Users\qy2015\Documents\github\Get started with ASP.NET Core\aspnetcoreapp\bin\Release\net8.0\publish\aspnetcoreapp.pdb
